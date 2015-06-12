@@ -1,5 +1,5 @@
 # CD-List-Blues
-That part of the meta-list of CDs devoted to the blues. 
+Down in the deep. 
 
 --Elmore James: 1
 
